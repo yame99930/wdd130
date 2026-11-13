@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 112" role="img" aria-labelledby="title">
+  <title id="title">Riverbend Rafting Co.</title>
+  <rect width="360" height="112" rx="8" fill="#e5f1ed"/>
+  <circle cx="55" cy="56" r="40" fill="#14534f"/>
+  <path d="M22 64c12-12 22 12 34 0s22 12 34 0M23 76c11-10 20 10 31 0s20 10 31 0" fill="none" stroke="#e5a84b" stroke-linecap="round" stroke-width="6"/>
+  <path d="m37 46 18-12 18 12-4 12H41z" fill="#fff"/>
+  <path d="m47 38 8-12 8 12" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  <text x="108" y="53" fill="#14534f" font-family="Georgia, serif" font-size="28" font-weight="700">RIVERBEND</text>
+  <text x="110" y="79" fill="#243b3a" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">RAFTING CO.</text>
+</svg>
